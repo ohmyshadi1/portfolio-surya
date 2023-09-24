@@ -13058,3 +13058,79 @@
 [stacktrace]
 #0 {main}
 "} 
+[2023-09-24 05:20:16] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:21:16] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:22:15] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:23:14] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:24:25] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:25:13] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:26:13] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:27:14] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:28:12] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:29:12] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:30:12] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:31:12] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:32:12] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:33:23] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:34:13] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:35:14] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:36:13] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:37:14] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-09-24 05:38:16] local.ERROR: Cannot redeclare get_setting_value() (previously declared in C:\xampp\htdocs\project php\PORTOFOLIO - Copy\app\helpers.php:7) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare get_setting_value() (previously declared in C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7) at C:\\xampp\\htdocs\\project php\\PORTOFOLIO - Copy\\app\\helpers.php:7)
+[stacktrace]
+#0 {main}
+"} 
